@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "socket.io": "^4.7.2",
+    "yaml": "^2.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.51.0"
+  }
+}

@@ -1,0 +1,6 @@
+socket:
+  url: "ws://localhost:8082/"
+ftp:
+  port: 21
+  path: /home/jehende/Bureau/
+  loginTimeout: 10000
