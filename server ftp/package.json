@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "ftp-srv": "^4.6.3",
+    "ftpd": "^0.2.16",
     "socket.io-client": "^4.7.2",
     "yaml": "^2.3.2"
   },
